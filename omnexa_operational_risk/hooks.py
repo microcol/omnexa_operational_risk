@@ -1,5 +1,5 @@
 app_name = "omnexa_operational_risk"
-app_title = "Omnexa Operational Risk"
+app_title = "ErpGenEx — Operational Risk"
 app_publisher = "Omnexa"
 app_description = "Operational risk management vertical"
 app_email = "dev@omnexa.com"
